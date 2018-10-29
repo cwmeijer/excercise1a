@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "16e25df7_a3ebcfe8",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1015359
+      },
+      "writtenOn": "2018-10-29T10:09:43Z",
+      "side": 1,
+      "message": "magic ints.",
+      "revId": "106d3e6fb7a534a5fcc79fb9e5469101914f64c7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cfa3da18_8cc9d569",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1015359
+      },
+      "writtenOn": "2018-10-29T10:09:43Z",
+      "side": 1,
+      "message": "code duplication: define days per month only once",
+      "revId": "106d3e6fb7a534a5fcc79fb9e5469101914f64c7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
